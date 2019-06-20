@@ -1,0 +1,12 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="ne@userDefined" key=".ne" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="if(!empty($EXPR$)){&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="ake@userDefined" key=".ake" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_key_exists($EXPR$, $END$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
