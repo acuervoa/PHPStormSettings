@@ -6,7 +6,7 @@
           <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
           <ShortCut>'⇧⌘S'</ShortCut>
           <Description>Analyze with SonarLint</Description>
-          <Count>73</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>82</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
