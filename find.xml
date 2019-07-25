@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../main.php [posterdigital]'" />
-    <option name="defaultScopeName" value="File '.../main.php [posterdigital]'" />
-    <option name="SEARCH_SCOPE" value="File '.../main.php [posterdigital]'" />
+    <option name="customScope" value="File '.../includes/classes/usuario.class.php [posterdigital]'" />
+    <option name="defaultScopeName" value="File '.../includes/classes/usuario.class.php [posterdigital]'" />
+    <option name="SEARCH_SCOPE" value="File '.../includes/classes/usuario.class.php [posterdigital]'" />
   </component>
 </application>
