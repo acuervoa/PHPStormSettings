@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/Artist/ArtistController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Artist/ArtistController.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Artist/ArtistController.php'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/Genre/GenreController.php'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Genre/GenreController.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Genre/GenreController.php'" />
   </component>
 </application>
