@@ -5,5 +5,16 @@
         <option value="php:S1192" />
       </set>
     </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.internal.tecnilogica.com:9000/" />
+          <option name="name" value="Tecnilogica Internal" />
+          <option name="login" value="acuervo" />
+          <password>dfc2dfcbdfc6dfdadf98df99dfd8df80</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
   </component>
 </application>
