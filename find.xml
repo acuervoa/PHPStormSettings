@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../includes/dbhelpercommon.php'" />
-    <option name="defaultScopeName" value="File '.../includes/dbhelpercommon.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../includes/dbhelpercommon.php'" />
+    <option name="customScope" value="File '.../meta/includes/metahelper.php'" />
+    <option name="defaultScopeName" value="File '.../meta/includes/metahelper.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../meta/includes/metahelper.php'" />
   </component>
 </application>
