@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="ff9800" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-3605bfb3:16a024d8a13:-8000" />
-    <option name="version" value="4.11.2" />
-    <option name="tabHighlightPosition" value="Full" />
+    <option name="userId" value="4fd790d3:16423b827d8:-7fff" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>

@@ -1,29 +1,24 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="28884108-c9c2-4bd2-8d0c-93bacce1de64" name="PHP 7.2.18" home="/usr/local/Cellar/php@7.2/7.2.18/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="c330ef58-dbc7-444a-8832-9378eed24107" name="PHP 5.6" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="4f369689-4d86-4fb3-ada6-5ccb985d4e7e" name="PHPUnit" home="/usr/local/bin/phpunit" debugger_id="php.debugger.XDebug" />
+      <interpreter id="bec40f73-1740-468e-8cd2-b7aa8a90926e" name="PHP 7.1-30_1" home="/usr/local/Cellar/php@7.1/7.1.30_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="0721445b-561a-466f-b8d9-0e77d51894c9" name="PHP 7.4.0" home="/usr/local/Cellar/php/7.4.0/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c0fdc46a-da56-4bd3-99c4-2f9607a91916" name="PHP 7.2.20" home="/usr/local/Cellar/php@7.2/7.2.20/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2.18">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.18/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.18/bin/php" path_separator=":" version="7.2.18">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+      <interpreter name="PHP 7.4.0">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.0/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.0/bin/php" path_separator=":" version="7.4.0">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.18/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.0/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -80,7 +75,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
@@ -91,12 +85,12 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.16/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.16/bin/php" path_separator=":" version="7.2.16">
+      <interpreter name="PHP 7.2.20">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.20/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.20/bin/php" path_separator=":" version="7.2.20">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.16/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.20/share/php@7.2/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.6.1">
@@ -173,12 +167,12 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHPUnit">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.18/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.18/bin/php" path_separator=":" version="7.2.18">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+      <interpreter name="PHP 7.1-30_1">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.30_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.30_1/bin/php" path_separator=":" version="7.1.30">
+          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.18/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.30_1/share/php@7.1/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -212,6 +206,7 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -231,7 +226,6 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
-            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />

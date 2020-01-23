@@ -1,4 +1,5 @@
 <?php
+
 #if (${NAMESPACE})
 namespace ${NAMESPACE};
 #end
@@ -6,5 +7,5 @@ namespace ${NAMESPACE};
 class ${NAME} extends Eloquent {
 
     protected \$fillable = [];
-    
+
 }
