@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
+    <option name="compactMenus" value="true" />
     <option name="allowDataCollection" value="true" />
-    <option name="isContrastMode" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="42" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4fd790d3:16423b827d8:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
+    <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
