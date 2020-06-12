@@ -36,8 +36,6 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_PHP_TAGS" value="true" />
     <option name="COLLAPSE_HERE_DOCS" value="true" />
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
-    <option name="COLLAPSE_CLASSES" value="true" />
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
 </application>
